@@ -32,7 +32,7 @@ Sold exclusively via [Antipode Studio](https://www.antipode.no/products/akb-vero
 * 1× Solder PCB
 * 1× 1.5mm PC plate
 * 1× AKB slimline daughterboard
-* 4× [AKB Bumpons](../akb-repo/feet) – Injection molded silicone
+* 4× [AKB Bumpons](https://github.com/akb-repos/feet) – Injection molded silicone
 * 1× 6u and 2× 3u stabilizer wires
 * 1× Carry Case
 * 4× Torx countersunk screw M3 x 5mm (weight)
