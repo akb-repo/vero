@@ -53,3 +53,6 @@ Sold exclusively via [Antipode Studio](https://www.antipode.no/products/akb-vero
 
 ### Typing tests
 * [Poes - Vero with Gateron Inks](https://www.youtube.com/watch?v=S4EZzdk6aKU)
+
+## Render model
+* [Render model](./rendering/Vero_Render_Model.step)
